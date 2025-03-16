@@ -14,7 +14,7 @@ This Career Guidance System is a prototype developed for Execute 4.0. It uses a 
   
 **Ensure you have the following files in your project directory:**
   - preprocessed_data.csv
-  - trained_model.joblib
+  - trained_model.joblib : https://drive.google.com/file/d/14EpsFxE3WqxlyC06FFB7-HqOUSJpp6XS/view?usp=drive_link (Google Drive)
   - app.py
   
 ## **How to Run**
